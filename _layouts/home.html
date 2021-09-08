@@ -11,7 +11,8 @@ layout: default
   {% else %}
     {% assign posts = site.posts %}
   {% endif %}
-
+  
+  <!--the main content, if post number>0, post here-->
   {%- if posts.size > 0 -%}
     <ul class="post-list">
       {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
@@ -39,6 +40,7 @@ layout: default
       {%- endfor -%}
     </ul>
 
+    <!--the pages number, forward and backward that in the end of the page-->
     {% if site.paginate %}
       <div class="pager">
         <ul class="pagination">

@@ -1,6 +1,19 @@
 - title: Twitter
-  url: https://twitter.com/ngzhio
+  url: https://twitter.com/xuanbaic
   icon: fab fa-twitter
+
+- title: Facebook
+  url: https://www.facebook.com/profile.php?id=100061440739103
+  icon: fab fa-facebook
+
+- title: Youtube
+  url: https://www.youtube.com/channel/UC6iHCn1v1DCOZSW42jEMlxw
+  icon: fab fa-youtube
+
 - title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
+  url: https://github.com/Xuanbai-Chen
   icon: fab fa-github
+
+- title: Linkedin
+  url: https://www.linkedin.com/in/xuanbai-36aa77182/
+  icon: fab fa-linkedin

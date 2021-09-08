@@ -1,8 +1,19 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+#site.XX(attributes)
+#site head left
+title: Hello, welcome to my website !
+
+
+#contact information
 avatar: /logo.png
-email: ngzhio@gmail.com
+author: Xuanbai Chen
+email: xuanbaic@andrew.cmu.edu
+location: Haidian, Beijing, China
+
+#current position
+subscribe: True
+
+#footer
+description: A personal website for recording and posting the significant events in my life.
 
 plugins:
   - jekyll-seo-tag
@@ -11,6 +22,7 @@ plugins:
   - jekyll-paginate
   - jekyll-remote-theme
 
+#every page number
 paginate: 10
 
 remote_theme: ngzhio/jekyll-theme-hamilton
@@ -35,11 +47,13 @@ twitter:
   username: ngzhio
   card: summary
 logo: logo.png
+
 social:
-  name: Shangzhi Huang
+  name: Xuanbai Chen
   links:
     - https://twitter.com/ngzhio
     - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://github.com/Xuanbai-Chen
+
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en

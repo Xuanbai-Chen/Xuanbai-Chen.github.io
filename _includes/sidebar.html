@@ -1,3 +1,4 @@
+<!-- logo image --> 
 {% if site.avatar -%}
   <div class="sidebar-section">
     {%- if site.avatar contains "://" -%}
@@ -9,36 +10,59 @@
   </div>
 {%- endif %}
 
+<!-- contact information --> 
 <div class="sidebar-section">
   <ul class="contact-list">
     {% if site.author -%}
       <li>
-        <i class="sidebar-icon fas fa-at"></i>
+        <i class="sidebar-icon fas fa-user"></i>
         <span class="contact-info p-name">{{ site.author | escape }}</span>
       </li>
     {%- endif %}
     {% if site.email -%}
       <li>
         <i class="sidebar-icon fas fa-envelope"></i>
-        <a class="contact-info u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+        <a class="contact-info u-email" href="mailto:{{ site.email }}">xuanbaic@andrew.cm<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;u.edu</a>
       </li>
     {%- endif %}
     {% if site.location -%}
       <li>
-        <i class="sidebar-icon fas fa-location-arrow"></i>
+        <i class="sidebar-icon fas fa-home"></i>
         <a class="contact-info u-location" href="https://www.google.com/maps/search/{{ site.location }}">{{ site.location }}</a>
       </li>
     {%- endif %}
   </ul>
 </div>
 
-{% if site.subscribe != false -%}
-<div class="sidebar-section feed-subscribe">
-  <a href="{{ 'feed.xml' | relative_url }}">
-    <i class="sidebar-icon fas fa-rss"></i><span>Subscribe</span>
-  </a>
+<div class="sidebar-section">
+  <ul class="contact-list">
+    {% if site.subscribe != false -%}
+    <li>
+        <!--<a href="https://github.com/Xuanbai-Chen">-->
+        <i class="sidebar-icon fas fa-search"></i><span>Current Position</span>
+        </a>
+    </li>
+    {%- endif %}
+    <li>
+      <i class="sidebar-icon fas fa-file"></i>
+      <a href="https://www.ri.cmu.edu/education/academic-programs/master-of-science-computer-vision/">
+      <span>Incoming 2022 Spring<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CMU MSCV student</span>
+      </a>
+    </li>
+    <li>
+      <i class="sidebar-icon fas fa-file"></i>
+      <a href="https://www.sensetime.com/sea-en">
+      <span>CV Researcher Intern<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;at SenseTime</span>
+      </a>
+    </li>
+    <li>
+      <i class="sidebar-icon fas fa-file"></i>
+      <a href="https://www.nankai.edu.cn/">
+      <span>RA at Nankai University</span>
+      </a>
+    </li>
+  </ul>
 </div>
-{%- endif %}
 
 {% if site.data.social -%}
   <div class="sidebar-section">
@@ -51,3 +75,6 @@
     </ul>
   </div>
 {%- endif %}
+
+<!--twitter-sign, facebook-sign, linkedin-sign, github-sign -->
+<!--twitter, facebook, linkedin, github -->
