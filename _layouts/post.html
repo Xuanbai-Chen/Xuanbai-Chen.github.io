@@ -1,12 +1,17 @@
 ---
 layout: default
 ---
-
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
 
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <h1 class="post-title p-name" itemprop="name headline" style="font-size:28px">{{ page.title | escape }}</h1>
+
+    {%- if page.subtitle -%}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <span class="p-author h-card" itemprop="name">{{ page.subtitle }}</span></span>
+    {%- endif -%}
+
     <p class="post-meta">
       {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -30,7 +35,7 @@ layout: default
 
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
+  <div class="post-content e-content" itemprop="articleBody" style="font-size:15px">
     {{ content }}
   </div>
 
