@@ -150,20 +150,204 @@ toc: true
 
 ### 4.最后的两个学期:
 
-开学，心态变了，nb
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;开学之后有一个班会，给同学们介绍过去一年的经历
 
-定位过高，博士
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;评各种奖学金也开始NB起来
 
-要推荐信，想直接去不行，诶打底衣
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;但不知为何，还是没有进入紧张的学习状态，还在去打球之类的事情
 
-9.焦虑等待:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;忽然有一天就醒悟了，每天开始日复一日的学习，托福，GRE，准备申请 (CV，PS，准备其他材料，套词，填网申)，改论文，投新的论文，每天从早忙到晚。
 
-10.终见曙光:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;托福和GRE先后考了出来，GRE也是一次就过。刚开始和新加坡的教授交流，后来和港大及各种老师交流，给自己灌输一个思想，想读博，就算申到了XX项目自己也不会去，所以还不如申博，导致定位过高。
 
-11.劫后余生:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要推荐信，想直接去不行，北大第一才能去。某L说可给推荐。
 
-南开现状？
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;而后就是一个个填网申，其中还穿插着改论文，投CVPR，MLT更改成MSCV，一生所幸。12.15之后开始了新的科研。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;之后就是焦虑的等待，发微博那么焦虑，每天刷一亩三分地从早刷到晚，寒假放假回家也并不开心，于大年三十来了waitlist，和usc的录取，但同时加了几个同是waitlist的人才发现，外面的人都那么强，自己的局限性真的特别的明显。本以为之后会有更多的offer来，但是沉寂很久，全是博士的拒信。一亩三分地，邮箱，gradecafe三点一线。开始怀疑自己定位过高，没收到什么面试，每天都想着要是都申请硕士就好了。一直到三月中旬吧，来了epfl，才彻底释放，那一晚真的觉得梦想什么的都可以实现了。而后呢，张老师的purdue offer也来了，对不起张老师，将其鸽了，其对我还是有很多肯定的；最后便是mscv转正了。而后一切都顺理成章，真的是幸运的，给我们这些waitlist开了一个春季班，刚开始没觉得cv有多好，比较不读博友好嘛，就还是想去epfl，后来多方打听还是决定去cmu，于是便算是结束了。
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最后的一个半月算是少有的狂欢时间，每天都在和朋友们玩耍，享受着最后的南开时光。和魏哥或者朋友们一起，打篮球，出去耍，吃饭，欢乐谷，各地游玩，拍毕业照。之前大家会因为有各种事情而无法享受，而现在，大家都闲了下来，一起谈天说地，聚集在寝室玩耍聊天，真的是不亦乐乎！
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;南开现状：
+
 ### 5.寝室 & 同学日常:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这个先不讲了吧
+
+
+## 三.申请各要素分析：
+
+### 1.GPA：
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GPA是三维中最重要的部分，重要程度远胜于英语成绩。个人建议，保持GPA的方法，除了上课认真听讲，课后认真完成相应的作业之外，还可以多利用身边的资源，例如请教同学讲解不会的题目等等。还有的就是可以选一些往年老师给分比较高，大家评价比较好的课，避免采坑。
+
+### 2.托福，GRE：
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;T/G的话，我个人建议是不用报名相关的补习班的，因为自己报过相关的补习班，花费不小，作用不大。最重要的还是刷题，T刷TPO，网上的资源很多，6,7十套，认真做过大部分的话，T过百不成问题。G同样也是刷题，刷机经，1000多个填空，几百个阅读，数学的话仅需考前做几套，确保能读懂题即可。
+
+### 3.软背景（科研，实习，交换）:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一个申请人是否拥有好的软背景，越来越成为其能否脱颖而出的依据。科研，实习，交换这几种方式都是可以的。我的经验是，重质不求量，选择去做那些有价值的经历，无论能让你获得什么，如推荐信，论文或者仅仅是能力的提升。不要为了追求软背景去水经历，因为一段水经历，写在文书里，会显得很苍白，审材料的人也会轻易地看出。
+
+### 4.选校：
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在我看来，选校最重要的是要有梯度，彩票，冲刺，主申，保底一个不能少。不要盲目自信，不选保底，导致申请崩盘无学可上；同时亦不要选择那些自己录取了也根本不会去的学校，浪费申请费。一个小tip是多选主申及以上的学校，保底1-2所，确认能保住底即可。
+
+### 5.套词：
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;申请PhD的话，套词还是非常重要的，了解导师今年招不招学生，是不是对你感兴趣。个人觉得，套词最好的方式是学术套，提前读读教授的相关论文，在邮件中介绍自己的同时，问问相关的问题。但这样做比较费时，如果觉得麻烦的话，也可以在适当选择之后海套。套词只是一个信息交换的过程，不要在没有老师回复邮件时候气馁，也不要觉得老师对你感兴趣就一定会录取你。
+
+### 6.推荐信：
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;推荐信在研究型硕士及博士的申请比重中占比很高，甚至可以达到最高，一个大牛的强推可以直接将你送入梦校。个人觉得，推荐人的选择大概是了解你的大牛>了解你的老师>大牛>老师，了解是最重要的，不了解的话，不仅无法在推荐信写出有意义的内容，而且会出现平推甚至黑推的情况，后果很严重。推荐人的数量也最好大于三个。
+
+### 各种经验
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;到时候再着重介绍一下
+
+## 四.各大院校MSCS，CS PhD及其他项目介绍 & 难度分析：
+
+### 前言：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主要分析硕士项目及难度，把难度分为T0~5几个级别，博士项目就无上限了，自己也不好分析因为也并没有申请到，分析全美计算机专排前三十，依据的排名是[USNews 2018][USNews 2018]年出的一个排名，四大并列第一的。另外也分析一下加拿大三所学校、瑞士两所和新加坡两所学校。
+
+### 1.Carnegie Mellon University:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由于CMU CS项目众多，所以我们只分析School of Computer Science (SCS)下面的[硕士和博士项目][硕士和博士项目]，计算机学院下面呢开设有七个部门，每个都开设了不同的项目。
+
+#### Master & Ph.D.
+
+- Computer Science Department (CSD):
+  - Master of Science in Computer Science
+  - Ph.D. in Computer Science
+
+- Machine Learning Department (MLD):
+  - Master of Science in Machine Learning
+  - Ph.D. in Machine Learning
+
+- Robotics Institute (RI):
+  - Master of Science in Robotics
+  - Master of Science in Computer Vision
+  - Master's in Robotic Systems Development
+  - Ph.D. in Robotics
+
+- Language Technologies Institute (LTI):
+  - Master of Science in Language Technologies
+  - Master of Computational Data Science
+  - Master of Science in Intelligent Information Systems
+  - Master of Science in Artificial Intelligence and Innovation
+  - Ph.D. in Language and Information Technologies
+
+- Computational Biology Department (CBD):
+  - Master of Science in Computational Biology
+  - Master of Science in Automated Science: Biological Experimentation
+  - Ph.D. in Computational Biology
+
+- Human-Computer Interaction Institute (HCII):
+  - Master of Human-Computer Interaction
+  - Master of Educational Technology and Applied Learning Science
+  - Master of Science in Product Management
+  - Ph.D. in Human-Computer Interaction
+
+- Institute for Software Research (ISR):
+  - Master of Software Engineering
+  - Master of Software Engineering - Embedded Systems
+  - Master of Software Engineering - Scalable Systems
+  - Master of Science in Information Technology - Privacy Engineering
+  - Master of Information Technology & Strategy
+  - Ph.D. in Software Engineering
+
+### 1.Massachusetts Institute of Technology:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MIT并没有设置CS的master项目，因为根据其官网，所有的graduate都是为了科研而进行的培养的，EECS PhD可以在攻读PhD过程中领取一个master学位。
+
+#### Master & Ph.D.
+
+- Electrical Engineering and Computer Sciences Department (EECS): Master
+  - Ph.D. in EECS
+
+### 1.Stanford University:
+
+### 1.University of California, Berkeley:
+
+### 5.University of Illinois, Urbana Champaign:
+
+### 6.Cornell University:
+
+### 6.University of Washington:
+
+### 8.Georgia Institute of Technology:
+
+### 8.Princeton University:
+
+### 10.University of Texas, Austin:
+
+### 11.California Institute of Technology:
+
+### 11.University of Michigan, Ann Arbor:
+
+### 13.Columbia University:
+
+### 13.University of California, Los Angeles:
+
+### 13.University of Wisconsin, Madison:
+
+### 16.Harvard University:
+
+### 16.University of California, San Diego:
+
+### 16.University of Maryland, College Park:
+
+### 19.University of Pennsylvania:
+
+### 20.Purdue University, West Lafayette:
+
+### 20.Rice University:
+
+### 20.University of Massachusetts, Amherst:
+
+### 20.University of Southern California:
+
+### 20.Yale University:
+
+### 25.Brown University:
+
+### 25.Duke University:
+
+### 25.Johns Hopkins University:
+
+### 25.University of North Carolina, Chapel Hill:
+
+### 29.University of Minnesota, Twin Cities:
+
+### 30.New York University:
+
+### 30.Northwestern University:
+
+### 30.Ohio State University:
+
+### 30.Pennsylvania State University, University Park:
+
+### 30.University of California, Irvine:
+
+### 30.University of Chicago:
+
+### 30.University of Virginia:
+
+### University of Toronto:
+
+### The University of British Columbia:
+
+### McGill University:
+
+### ETH Zürich:
+
+### EPFL:
+
+### National University of Singapore:
+
+### Nanyang Technological University
+
+### 规律 & 特点
 
 <!-- 
 <p style="text-align: center;">
@@ -171,17 +355,7 @@ toc: true
 </p>
 -->
 
-## 三.申请各要素分析：
-
-### 各种经验
-
-## 四.各大院校CS硕士，博士项目介绍 & 难度分析：
-
-真正写一篇自己的申请总结，已经You’ll find 大师this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+this post in your `_posts` directory
 
 {% highlight ruby %}
 def print_hi(name)
@@ -191,8 +365,6 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[USNews 2018]: https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings
+[硕士和博士项目]: https://www.cs.cmu.edu/academics/overview-programs
+[硕士项目]: https://www.cs.cmu.edu/academics/masters/programs
